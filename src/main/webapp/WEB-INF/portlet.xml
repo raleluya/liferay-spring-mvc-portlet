@@ -20,9 +20,9 @@
 			<portlet-mode>view</portlet-mode>
 		</supports>
 		<portlet-info>
-			<title>Liferay Spring MVC Portlet</title>
-			<short-title>Liferay Spring MVC Portlet</short-title>
-			<keywords>liferay spring mvc portlet</keywords>
+			<title>Telescope Portlet</title>
+			<short-title>Telescope Portlet</short-title>
+			<keywords>Telescope Portlet</keywords>
 		</portlet-info>
 		<security-role-ref>
 			<role-name>administrator</role-name>
